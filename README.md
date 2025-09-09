@@ -1,0 +1,1 @@
+# vscode---african-proverbs-w-ai
