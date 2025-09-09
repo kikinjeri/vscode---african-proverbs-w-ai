@@ -1,0 +1,283 @@
+[
+  {
+    "id": "nigeria",
+    "name": "Nigeria",
+    "flag": "🇳🇬",
+    "proverb": "A man who sweats profusely is the one who eats hot food.",
+    "recipe": {
+      "title": "Boiled Yam with Palm Oil Sauce",
+      "ingredients": [
+        "1 medium yam tuber",
+        "1/2 cup palm oil",
+        "2 medium onions, sliced",
+        "2 fresh peppers, chopped",
+        "1 stock cube",
+        "Salt to taste"
+      ],
+      "steps": [
+        "Peel and slice the yam into thick rounds, then wash thoroughly.",
+        "Place yam slices in a pot, cover with water, and add a pinch of salt.",
+        "Boil until yam pieces are soft but not mushy, then drain.",
+        "Heat palm oil in a pan until it becomes slightly smoky.",
+        "Add sliced onions and peppers, and sauté until fragrant.",
+        "Season with stock cube and salt, stirring until combined.",
+        "Serve boiled yam hot with palm oil sauce drizzled on top."
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/5/54/Yam_and_sauce.jpg"
+    }
+  },
+  {
+    "id": "ghana",
+    "name": "Ghana",
+    "flag": "🇬🇭",
+    "proverb": "If you do not travel, you will not know how far the river is.",
+    "recipe": {
+      "title": "Jollof Rice",
+      "ingredients": [
+        "2 cups long-grain rice",
+        "4 medium tomatoes",
+        "1 red bell pepper",
+        "2 medium onions",
+        "2 cloves garlic",
+        "1 tsp curry powder",
+        "1 tsp thyme",
+        "1 bay leaf",
+        "2 stock cubes",
+        "1/4 cup vegetable oil",
+        "3 cups chicken stock",
+        "Salt to taste"
+      ],
+      "steps": [
+        "Wash the rice thoroughly and set aside.",
+        "Blend tomatoes, bell pepper, onion, and garlic into a smooth paste.",
+        "Heat oil in a pot and sauté sliced onions until golden.",
+        "Add blended tomato mix, curry, thyme, and stock cubes.",
+        "Simmer sauce for 10–15 minutes until thick and oil separates.",
+        "Stir in the washed rice until coated in sauce.",
+        "Pour chicken stock to just cover the rice, add bay leaf, and cover tightly.",
+        "Cook on low heat until rice is tender and fluffy.",
+        "Serve hot with fried plantains, grilled chicken, or salad."
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Jollof_Rice_with_salad.jpg"
+    }
+  },
+  {
+    "id": "kenya",
+    "name": "Kenya",
+    "flag": "🇰🇪",
+    "proverb": "Wisdom does not come overnight.",
+    "recipe": {
+      "title": "Ugali with Sukuma Wiki",
+      "ingredients": [
+        "2 cups maize flour",
+        "4 cups water",
+        "1 bunch collard greens (sukuma wiki)",
+        "2 medium tomatoes, chopped",
+        "1 onion, chopped",
+        "2 tbsp vegetable oil",
+        "Salt to taste"
+      ],
+      "steps": [
+        "Boil water in a large saucepan.",
+        "Gradually add maize flour while stirring to prevent lumps.",
+        "Cook while stirring until the mixture thickens into a stiff dough.",
+        "Cover and let steam on low heat for 5 minutes, then set aside.",
+        "In a separate pan, heat oil and sauté onions until translucent.",
+        "Add chopped tomatoes and cook until soft.",
+        "Add collard greens and stir-fry until tender but still bright green.",
+        "Season with salt and serve hot alongside ugali."
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/4/47/Ugali_and_sukuma_wiki.jpg"
+    }
+  },
+  {
+    "id": "ethiopia",
+    "name": "Ethiopia",
+    "flag": "🇪🇹",
+    "proverb": "When the webs of the spider unite, they can trap a lion.",
+    "recipe": {
+      "title": "Injera with Doro Wat",
+      "ingredients": [
+        "3 cups teff flour",
+        "4 cups water (for batter)",
+        "1 whole chicken, cut into pieces",
+        "3 onions, chopped",
+        "2 tbsp berbere spice",
+        "3 cloves garlic, minced",
+        "1 tbsp ginger, grated",
+        "3 tbsp niter kibbeh (spiced butter)",
+        "2 tbsp tomato paste",
+        "4 boiled eggs",
+        "Salt to taste",
+        "Lemon juice for marinating"
+      ],
+      "steps": [
+        "Mix teff flour with water and allow to ferment for 2–3 days.",
+        "Cook thin layers of batter on a skillet to make spongy injera.",
+        "Marinate chicken with lemon juice and salt for 30 minutes.",
+        "Cook onions slowly in a dry pan until browned.",
+        "Add niter kibbeh and berbere spice, stirring well.",
+        "Add garlic, ginger, and tomato paste to form a sauce.",
+        "Add chicken, coat well, and simmer until tender.",
+        "Add boiled eggs to the stew and cook a few minutes longer.",
+        "Serve doro wat hot with fresh injera."
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Ethiopian_food.jpg"
+    }
+  },
+  {
+    "id": "egypt",
+    "name": "Egypt",
+    "flag": "🇪🇬",
+    "proverb": "A man without a donkey is a donkey himself.",
+    "recipe": {
+      "title": "Koshari",
+      "ingredients": [
+        "1 cup rice",
+        "1 cup macaroni",
+        "1 cup brown lentils",
+        "1 cup chickpeas, cooked",
+        "2 large onions, sliced",
+        "2 cups tomato sauce",
+        "2 cloves garlic, minced",
+        "1 tsp cumin",
+        "1/4 cup vegetable oil",
+        "Salt and chili powder to taste"
+      ],
+      "steps": [
+        "Cook rice, pasta, and lentils separately until tender.",
+        "Heat oil in a pan, fry onions until crispy, then set aside.",
+        "In another pan, sauté garlic with cumin, then add tomato sauce.",
+        "Simmer sauce with chili powder and salt until rich and thick.",
+        "Layer rice, pasta, lentils, and chickpeas on a plate.",
+        "Top with tomato sauce and crispy fried onions.",
+        "Serve hot with extra sauce on the side."
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Koshari_2.jpg"
+    }
+  },
+  {
+    "id": "southafrica",
+    "name": "South Africa",
+    "flag": "🇿🇦",
+    "proverb": "Wisdom is like fire. People take it from others.",
+    "recipe": {
+      "title": "Bobotie",
+      "ingredients": [
+        "500g minced beef or lamb",
+        "2 slices bread, soaked in milk",
+        "2 onions, chopped",
+        "2 tbsp curry powder",
+        "1 tsp turmeric",
+        "2 eggs",
+        "1/2 cup milk",
+        "2 tbsp chutney or fruit jam",
+        "2 tbsp vegetable oil",
+        "Salt and pepper to taste"
+      ],
+      "steps": [
+        "Preheat oven to 180°C (350°F).",
+        "Fry onions in oil until soft, then add curry powder and turmeric.",
+        "Add minced meat, cooking until browned.",
+        "Squeeze milk from bread, crumble it, and add to the meat mixture.",
+        "Stir in chutney, salt, and pepper.",
+        "Transfer mixture into a greased baking dish.",
+        "Whisk eggs with milk, then pour over the top of the meat.",
+        "Bake for 30–40 minutes until golden brown.",
+        "Serve hot with yellow rice and chutney."
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Bobotie.jpg"
+    }
+  },
+  {
+    "id": "morocco",
+    "name": "Morocco",
+    "flag": "🇲🇦",
+    "proverb": "A small house will hold a hundred friends.",
+    "recipe": {
+      "title": "Chicken Tagine",
+      "ingredients": [
+        "1 whole chicken, cut into pieces",
+        "2 preserved lemons, sliced",
+        "1 cup green olives",
+        "2 onions, chopped",
+        "3 cloves garlic, minced",
+        "2 tsp ginger",
+        "1 tsp cinnamon",
+        "1 tsp turmeric",
+        "1/4 cup olive oil",
+        "Salt and pepper to taste"
+      ],
+      "steps": [
+        "Rub chicken with garlic, ginger, turmeric, and cinnamon.",
+        "Heat olive oil in a tagine or pot and sauté onions until soft.",
+        "Add chicken pieces and brown on all sides.",
+        "Add preserved lemons, olives, and enough water to simmer.",
+        "Cover and cook slowly until chicken is tender.",
+        "Adjust seasoning and garnish with fresh herbs if desired.",
+        "Serve hot with couscous or bread."
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/0/07/Moroccan_Chicken_Tagine.jpg"
+    }
+  },
+  {
+    "id": "senegal",
+    "name": "Senegal",
+    "flag": "🇸🇳",
+    "proverb": "A canoe does not know who is king. When it turns over, everyone gets wet.",
+    "recipe": {
+      "title": "Thieboudienne",
+      "ingredients": [
+        "2 cups rice",
+        "2 medium fish, cleaned",
+        "2 tomatoes, chopped",
+        "1 onion, chopped",
+        "2 carrots, sliced",
+        "2 eggplants, sliced",
+        "1/4 cup vegetable oil",
+        "1 tbsp tomato paste",
+        "2 stock cubes",
+        "Salt and pepper to taste"
+      ],
+      "steps": [
+        "Season fish with salt and pepper, then set aside.",
+        "Heat oil in a large pot, sauté onions and tomatoes.",
+        "Add tomato paste and cook into a thick base.",
+        "Add vegetables and fish, cover with water, and simmer.",
+        "Remove fish once cooked and set aside.",
+        "Add rice to the pot, stir, and cook until tender.",
+        "Return fish on top of rice before serving.",
+        "Serve hot with extra sauce."
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Ceebu_jen.jpg"
+    }
+  },
+  {
+    "id": "tanzania",
+    "name": "Tanzania",
+    "flag": "🇹🇿",
+    "proverb": "Little by little, a little becomes a lot.",
+    "recipe": {
+      "title": "Nyama Choma",
+      "ingredients": [
+        "1kg goat or beef, cut into chunks",
+        "2 tbsp vegetable oil",
+        "2 cloves garlic, minced",
+        "1 tsp black pepper",
+        "1 tsp chili flakes",
+        "Salt to taste",
+        "Fresh lemon juice"
+      ],
+      "steps": [
+        "Marinate meat with garlic, chili, black pepper, salt, and lemon juice.",
+        "Cover and let sit for at least 1 hour.",
+        "Preheat grill or barbecue.",
+        "Grill meat over medium-high heat, turning occasionally.",
+        "Baste with oil during cooking to keep moist.",
+        "Cook until meat is smoky, charred, and tender.",
+        "Serve hot with kachumbari (tomato-onion salad)."
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Nyama_choma_with_kachumbari.jpg"
+    }
+  }
+]

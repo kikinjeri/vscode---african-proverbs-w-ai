@@ -1,0 +1,137 @@
+[
+  {
+    "id": "nigeria",
+    "name": "Nigeria",
+    "flag": "🇳🇬",
+    "proverb": "A man who sweats profusely is the one who eats hot food.",
+    "recipe": {
+      "title": "Boiled Yam with Palm Oil Sauce",
+      "steps": [
+        "Boil yam until tender.",
+        "Prepare palm oil sauce with pepper and onion.",
+        "Serve yam with sauce."
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/5/54/Yam_and_sauce.jpg"
+    }
+  },
+  {
+    "id": "kenya",
+    "name": "Kenya",
+    "flag": "🇰🇪",
+    "proverb": "Wisdom does not come overnight.",
+    "recipe": {
+      "title": "Ugali with Sukuma Wiki",
+      "steps": [
+        "Boil water and add maize flour, stirring until thick.",
+        "Cook collard greens with onion and tomato.",
+        "Serve ugali with greens."
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/4/47/Ugali_and_sukuma_wiki.jpg"
+    }
+  },
+  {
+    "id": "ghana",
+    "name": "Ghana",
+    "flag": "🇬🇭",
+    "proverb": "If you do not travel, you will not know how far the river is.",
+    "recipe": {
+      "title": "Jollof Rice",
+      "steps": [
+        "Cook rice with tomato stew and spices.",
+        "Simmer until rice is tender.",
+        "Serve with fried plantain."
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Jollof_Rice_with_salad.jpg"
+    }
+  },
+  {
+    "id": "ethiopia",
+    "name": "Ethiopia",
+    "flag": "🇪🇹",
+    "proverb": "When the webs of the spider unite, they can trap a lion.",
+    "recipe": {
+      "title": "Injera with Doro Wat",
+      "steps": [
+        "Prepare sourdough batter and cook spongy flatbread (injera).",
+        "Cook chicken stew with berbere spice, onion, and eggs.",
+        "Serve doro wat with injera."
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Ethiopian_food.jpg"
+    }
+  },
+  {
+    "id": "egypt",
+    "name": "Egypt",
+    "flag": "🇪🇬",
+    "proverb": "A man without a donkey is a donkey himself.",
+    "recipe": {
+      "title": "Koshari",
+      "steps": [
+        "Cook rice, pasta, and lentils separately.",
+        "Fry onions until crispy.",
+        "Assemble with spicy tomato sauce and chickpeas."
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Koshari_2.jpg"
+    }
+  },
+  {
+    "id": "southafrica",
+    "name": "South Africa",
+    "flag": "🇿🇦",
+    "proverb": "Wisdom is like fire. People take it from others.",
+    "recipe": {
+      "title": "Bobotie",
+      "steps": [
+        "Cook minced meat with curry spices, onion, and bread soaked in milk.",
+        "Top with an egg custard mixture.",
+        "Bake until golden and serve with yellow rice."
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Bobotie.jpg"
+    }
+  },
+  {
+    "id": "morocco",
+    "name": "Morocco",
+    "flag": "🇲🇦",
+    "proverb": "A small house will hold a hundred friends.",
+    "recipe": {
+      "title": "Chicken Tagine",
+      "steps": [
+        "Season chicken with spices and cook with onion and preserved lemon.",
+        "Add olives and simmer in a tagine pot.",
+        "Serve with bread or couscous."
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/0/07/Moroccan_Chicken_Tagine.jpg"
+    }
+  },
+  {
+    "id": "senegal",
+    "name": "Senegal",
+    "flag": "🇸🇳",
+    "proverb": "A canoe does not know who is king. When it turns over, everyone gets wet.",
+    "recipe": {
+      "title": "Thieboudienne",
+      "steps": [
+        "Cook fish with tomato sauce, vegetables, and spices.",
+        "Add rice and simmer until tender.",
+        "Serve with extra sauce and vegetables."
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Ceebu_jen.jpg"
+    }
+  },
+  {
+    "id": "tanzania",
+    "name": "Tanzania",
+    "flag": "🇹🇿",
+    "proverb": "Little by little, a little becomes a lot.",
+    "recipe": {
+      "title": "Nyama Choma",
+      "steps": [
+        "Marinate beef or goat meat with salt and spices.",
+        "Grill over open flames until smoky and tender.",
+        "Serve with kachumbari (tomato-onion salad)."
+      ],
+      "img": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Nyama_choma_with_kachumbari.jpg"
+    }
+  }
+]

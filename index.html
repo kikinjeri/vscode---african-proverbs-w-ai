@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>African Proverbs & Recipes</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main class="app">
+    <header>
+      <h1>African Proverbs & Recipes</h1>
+      <div class="search-row">
+        <input id="country-input" type="search" placeholder="Enter country name...">
+        <button id="search-btn">Search</button>
+      </div>
+      <div class="controls">
+        <button id="show-history">Show History</button>
+        <button id="clear-history">Clear All</button>
+      </div>
+    </header>
+
+    <section class="content">
+      <div id="result-area" class="card">
+        <div class="title-row">
+          <div class="flag" id="flag">🌍</div>
+          <div>
+            <div class="country-title" id="country-name">Search to get started</div>
+            <div class="small" id="result-index" style="display:none"></div>
+          </div>
+        </div>
+
+        <div class="proverb" id="proverb">
+          Find a proverb and recipe by searching a country name (e.g. Nigeria, Kenya, Ghana).
+        </div>
+
+        <img id="recipe-img" class="recipe-image" alt="Recipe illustration">
+
+        <div class="recipe-title" id="recipe-title">—</div>
+        <ol class="steps" id="recipe-steps">
+          <li class="small">No recipe yet. Search for a country.</li>
+        </ol>
+
+        <div class="nav-row">
+          <div class="nav-left">
+            <button id="prev-btn">&lt; Previous</button>
+            <button id="next-btn">Next &gt;</button>
+          </div>
+          <button id="ask-ai">Ask AI</button>
+        </div>
+      </div>
+
+      <div id="history-panel" class="history-panel" style="display:none">
+        <div class="history-header">
+          <strong>Search History</strong>
+          <small id="history-count">0</small>
+        </div>
+        <div id="history-list" class="history-list"></div>
+      </div>
+    </section>
+  </main>
+  <script src="script.js"></script>
+</body>
+</html>

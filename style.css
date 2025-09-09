@@ -1,0 +1,157 @@
+:root {
+  --bg: #f4f0eb;
+  --card: #fff;
+  --text: #111827;
+  --muted: #6b7280;
+  --primary: #1677ff;
+  --radius: 16px;
+  --shadow: 0 6px 18px rgba(0,0,0,0.08);
+  font-family: system-ui, -apple-system, sans-serif;
+}
+
+body {
+  margin: 0;
+  background: var(--bg);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  padding: 20px;
+}
+
+.app {
+  width: 100%;
+  max-width: 480px;
+  background: var(--card);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  padding: 20px;
+}
+
+h1 {
+  font-size: 1.6rem;
+  margin: 0 0 12px;
+}
+
+.search-row {
+  display: flex;
+  gap: 10px;
+}
+
+.search-row input {
+  flex: 1;
+  padding: 10px;
+  border-radius: var(--radius);
+  border: 1px solid #ddd;
+}
+
+.search-row button {
+  background: var(--primary);
+  color: white;
+  border: none;
+  padding: 10px 14px;
+  border-radius: var(--radius);
+  cursor: pointer;
+}
+
+.controls {
+  display: flex;
+  gap: 10px;
+  margin-top: 10px;
+}
+
+.controls button {
+  flex: 1;
+  padding: 8px;
+  border: 1px solid #ddd;
+  border-radius: var(--radius);
+  background: #f9fafb;
+  cursor: pointer;
+}
+
+.card {
+  margin-top: 16px;
+  padding: 16px;
+  border-radius: var(--radius);
+  background: white;
+  box-shadow: var(--shadow);
+}
+
+.title-row {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.flag {
+  font-size: 24px;
+}
+
+.country-title {
+  font-weight: bold;
+  font-size: 1.2rem;
+}
+
+.proverb {
+  font-style: italic;
+  color: var(--muted);
+  margin: 8px 0 12px;
+}
+
+.recipe-image {
+  width: 100%;
+  border-radius: var(--radius);
+  margin-bottom: 12px;
+}
+
+.recipe-title {
+  font-weight: bold;
+  margin-bottom: 8px;
+}
+
+.steps {
+  padding-left: 18px;
+}
+
+.nav-row {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 12px;
+}
+
+.nav-row button {
+  padding: 8px 12px;
+  border: 1px solid #ddd;
+  border-radius: var(--radius);
+  background: #f9fafb;
+  cursor: pointer;
+}
+
+#ask-ai {
+  background: var(--primary);
+  color: white;
+  border: none;
+}
+
+.history-panel {
+  margin-top: 16px;
+  padding: 12px;
+  border-radius: var(--radius);
+  background: #f9fafb;
+}
+
+.history-list {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.history-item {
+  padding: 6px;
+  border-radius: var(--radius);
+  cursor: pointer;
+}
+
+.history-item:hover {
+  background: #e5e7eb;
+}
